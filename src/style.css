@@ -1,0 +1,110 @@
+header {
+  padding-top: 10px;
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: auto;
+}
+header .image5 {
+  width: 80px;
+  padding-left: 1065px;
+}
+header .logo {
+  display: flex;
+  justify-content: left;
+}
+@media (min-width: 768px) {
+  header .logo {
+    justify-content: flex-end;
+  }
+}
+header .logo__img {
+  width: 80px;
+  margin-bottom: -3px;
+}
+header .logo__team {
+  margin: auto 10px;
+  font-size: 25px;
+  font-family: "Bebas Neue";
+  background: #38023b;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+html {
+  background-size: 100%;
+  background: linear-gradient(to top left, #cefdff 0%, #a288e3 100%);
+  background-repeat: no-repeat;
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: "Qwitcher Grypen";
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.image1 {
+  margin-top: -50px;
+  padding-right: 50px;
+  weight: 250px;
+  height: 280px;
+}
+
+.image2 {
+  margin-top: -50px;
+  padding-right: 50px;
+  weight: 250px;
+  height: 280px;
+}
+
+.image3 {
+  margin-top: -50px;
+  padding-right: 50px;
+  weight: 250px;
+  height: 280px;
+}
+
+.image4 {
+  margin-top: -50px;
+  weight: 250px;
+  height: 280px;
+}
+
+.image7 {
+  margin-top: -42px;
+  padding-right: 50px;
+  weight: 250px;
+  height: 280px;
+}
+
+.image8 {
+  margin-top: -70px;
+  padding-right: 50px;
+  weight: 250px;
+  height: 280px;
+}
+
+.image9 {
+  margin-top: -70px;
+  padding-right: 50px;
+  weight: 250px;
+  height: 280px;
+}
+
+.image10 {
+  margin-top: -70px;
+  padding-right: 50px;
+  weight: 250px;
+  height: 280px;
+}
+
+.image11 {
+  margin-top: -70px;
+  weight: 250px;
+  height: 280px;
+}
